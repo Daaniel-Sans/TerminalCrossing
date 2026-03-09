@@ -236,8 +236,8 @@ La clase `ConfiguracionJSON` gestiona la escritura y lectura usando la librería
 
 ## 👤Autores
 
-- [Daaniel-Sans] (https://github.com/Daaniel-Sans)
-- [deterry69] (https://github.com/deterry69)
-- [diegojosealonso] (https://github.com/diegojosealonso)
-- [whoischabola] (https://github.com/whoischabola)
+- [Daaniel-Sans](https://github.com/Daaniel-Sans)
+- [deterry69](https://github.com/deterry69)
+- [diegojosealonso](https://github.com/diegojosealonso)
+- [whoischabola](https://github.com/whoischabola)
 
