@@ -14,7 +14,7 @@
 | **Java Swing** | JDK built-in | Interfaz gráfica para la creación del personaje (`VentanaInicio`, `VentanaResumen`) |
 | **org.json** | 20231013 | Serialización y lectura de archivos JSON |
 | **JUnit Jupiter** | 5.10.0 | Framework de tests unitarios |
-| **IntelliJ IDEA** | — | IDE de desarrollo |
+| **IntelliJ IDEA** | Ultimate | IDE de desarrollo |
 | **Javadoc** | JDK built-in | Generación automática de documentación |
 | **Docsify** | — | Generación de la guía del proyecto como sitio web |
 
