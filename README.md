@@ -6,6 +6,16 @@
 
 ---
 
+## 🎬 Demo
+
+> El jugador crea su personaje en la ventana de inicio, entra a la aldea y explora el mapa en la terminal. En el vídeo se puede ver el movimiento por el mapa ASCII, que se redibuja cada vez que se pulsa la tecla enter después de cada acción, posicionando los elementos según las decisiones del jugador (moverse, interactuar, abrir un menú, etc). También se muestra a modo de ejemplo la interacción con árboles para recoger fruta, la captura de un insecto con la red y la consulta de la mochila y la recuperación de puntos de energía gastados tras comer una manzana.
+
+
+https://github.com/user-attachments/assets/03123ec9-7f52-4728-82ba-812a1f5baa53
+
+
+---
+
 ## 🛠️ Tecnologías utilizadas
 
 | Tecnología | Versión | Descripción |
@@ -233,6 +243,7 @@ La clase `ConfiguracionJSON` gestiona la escritura y lectura usando la librería
 4. Se abrirá la ventana de creación de personaje. ¡A jugar!
 
 ---
+
 
 ## 👤Autores
 
