@@ -1,6 +1,9 @@
 # 🏡 Terminal Crossing
 
-> Proyecto de programación orientada a objetos en Java para el grado superior en Desarrollo de Aplicaciones Web (DAW).
+
+> **Terminal Crossing** es un videojuego de simulación de vida que se ejecuta en la terminal, desarrollado en equipo durante el primer curso del grado superior en DAW dentro de los plazos y condiciones propios de un proyecto académico. El jugador crea su personaje mediante una ventana gráfica (Swing), explora un mapa ASCII, recolecta frutas sacudiendo árboles, pesca con una caña, captura insectos con una red, gestiona su mochila y lleva el registro de las especies descubiertas en una enciclopedia. En este juego, el jugador guarda y lee el progreso del personaje en formato **JSON**.
+
+---
 
 📖 **Guía completa del proyecto:** [https://terminalcrossingdoc.netlify.app/#/](https://terminalcrossingdoc.netlify.app/#/)
 
@@ -8,11 +11,9 @@
 
 ## 🎬 Demo
 
-> El jugador crea su personaje en la ventana de inicio, entra a la aldea y explora el mapa en la terminal. En el vídeo se puede ver el movimiento por el mapa ASCII, que se redibuja cada vez que se pulsa la tecla enter después de cada acción, posicionando los elementos según las decisiones del jugador (moverse, interactuar, abrir un menú, etc). También se muestra a modo de ejemplo la interacción con árboles para recoger fruta, la captura de un insecto con la red y la consulta de la mochila y la recuperación de puntos de energía gastados tras comer una manzana.
-
+> En el vídeo se puede ver el movimiento por el mapa ASCII, que se redibuja cada vez que se pulsa la tecla enter después de cada acción, posicionando los elementos según las decisiones del jugador (moverse, interactuar, abrir un menú, etc). También se muestra a modo de ejemplo la interacción con árboles para recoger fruta, la captura de un insecto con la red y la consulta de la mochila y la recuperación de puntos de energía gastados tras comer una manzana.
 
 https://github.com/user-attachments/assets/03123ec9-7f52-4728-82ba-812a1f5baa53
-
 
 ---
 
@@ -27,12 +28,6 @@ https://github.com/user-attachments/assets/03123ec9-7f52-4728-82ba-812a1f5baa53
 | **IntelliJ IDEA** | Ultimate | IDE de desarrollo |
 | **Javadoc** | JDK built-in | Generación automática de documentación |
 | **Docsify** | — | Generación de la guía del proyecto como sitio web |
-
----
-
-## 📌 Descripción general
-
-**Terminal Crossing** es un videojuego de simulación de vida que se ejecuta en la terminal. El jugador crea su personaje mediante una ventana gráfica (Swing), explora un mapa ASCII, recolecta frutas sacudiendo árboles, pesca con una caña, captura insectos con una red, gestiona su mochila y lleva el registro de las especies descubiertas en una enciclopedia. El juego guarda y lee el progreso del personaje en formato **JSON**.
 
 ---
 
